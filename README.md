@@ -1,2 +1,2 @@
 # hello-world
-Getting started with git
+Now this branch is different from master branch
